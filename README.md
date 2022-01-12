@@ -4,6 +4,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ledizia_/)
 
 
-- 📖 Estou no 7º período de Engenharia da Computação na Universidade do Estado do Amazonas
-- 💻 Trabalho há 2 anos na área de Ciência de Dados
+- 📖 Estou no 8º período de Engenharia da Computação na Universidade do Estado do Amazonas
+- 💻 Trabalho há 3 anos na área de Ciência de Dados
 - 👩‍💻 Sou organizadora da comunidade PyLadies Manaus
