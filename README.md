@@ -4,6 +4,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ledizia_/)
 
 
-- 👩‍🎓 I am a recent graduate in Computer Engineering at the Amazonas State University
-- 💻 I've been working with Data Science for 4 years
+- 👩‍🎓 Computer Engineer graduate from Amazonas State University
+- 💻 With 6 years of experience in Data Science, now focused on Machine Learning Engineering.
 - 🐍 Whenever possible I contribute to the Python communities in my city.
